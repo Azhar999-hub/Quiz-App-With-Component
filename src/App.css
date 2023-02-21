@@ -1,23 +1,23 @@
 .main-div {
-  background-image: url("https://img.rolandberger.com/img/Background-Folder/Backgrounds/RB_Dig_KIQuiz_stage_00_image_caption_none.jpg");
   width: 100vw;
   height: 100vh;
   display: grid;
   place-items: center;
   background-repeat: no-repeat;
   background-size: cover;
-
 }
 
 .inner-div {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI6WFINVfl6GVRDECFJtVyT_oDaBiBzDzw8w&usqp=CAU");
   width: 45vw;
   background-color: #fff;
   padding: 30px 60px;
   border-radius: 10px;
   box-shadow: 0 10px 10px 7px rgba(0, 0, 0, 0.6);
-
 }
 
-.options{
+.options {
   background-color: aqua;
 }
